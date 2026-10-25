@@ -1,5 +1,5 @@
 /* Pense-bête — fonctionne hors ligne une fois ouvert une première fois */
-const CACHE = 'pense-bete-v1';
+const CACHE = 'pense-bete-v2';
 const ASSETS = ['./', './index.html', './manifest.webmanifest', './apple-touch-icon.png', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', (e) => {
